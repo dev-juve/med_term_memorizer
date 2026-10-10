@@ -1,0 +1,3239 @@
+[
+  {
+    "englishTerm": "bronchus",
+    "haitianCreole": [
+      "bwonch"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 1
+  },
+  {
+    "englishTerm": "measure (to) blood pressure",
+    "haitianCreole": [
+      "pran tansyon"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 2
+  },
+  {
+    "englishTerm": "buttocks",
+    "haitianCreole": [
+      "dèyè",
+      "fès"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 3
+  },
+  {
+    "englishTerm": "calf",
+    "haitianCreole": [
+      "mòlèt"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 4
+  },
+  {
+    "englishTerm": "cartilage",
+    "haitianCreole": [
+      "katilaj",
+      "zo mou"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "sourceHeadword": "cartilaj",
+    "sourceNote": "The scanned page prints the English headword as \"cartilaj\"; the English term is presented here as \"cartilage\" and the printed form is retained in sourceHeadword.",
+    "id": 5
+  },
+  {
+    "englishTerm": "cervix",
+    "haitianCreole": [
+      "kòl matris"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 6
+  },
+  {
+    "englishTerm": "cheek",
+    "haitianCreole": [
+      "ponmèt"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 7
+  },
+  {
+    "englishTerm": "chest",
+    "haitianCreole": [
+      "kòf lestomak",
+      "pwatrin",
+      "pwatray"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 8
+  },
+  {
+    "englishTerm": "chin",
+    "haitianCreole": [
+      "manton"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 9
+  },
+  {
+    "englishTerm": "clitoris",
+    "haitianCreole": [
+      "krèk",
+      "langèt"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 10
+  },
+  {
+    "englishTerm": "coccyx",
+    "haitianCreole": [
+      "kòksis",
+      "zo koupyon"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 11
+  },
+  {
+    "englishTerm": "cornea",
+    "haitianCreole": [
+      "glas zye"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 12
+  },
+  {
+    "englishTerm": "crotch",
+    "haitianCreole": [
+      "fouk"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 13
+  },
+  {
+    "englishTerm": "diaphragm",
+    "haitianCreole": [
+      "dyafram"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 14
+  },
+  {
+    "englishTerm": "ear drum",
+    "haitianCreole": [
+      "tenpan",
+      "tande zòrèy"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 15
+  },
+  {
+    "englishTerm": "ear",
+    "haitianCreole": [
+      "zòrèy"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 16
+  },
+  {
+    "englishTerm": "body",
+    "haitianCreole": [
+      "kò"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 17
+  },
+  {
+    "englishTerm": "bone",
+    "haitianCreole": [
+      "zo"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 18
+  },
+  {
+    "englishTerm": "bowels",
+    "haitianCreole": [
+      "trip"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 19
+  },
+  {
+    "englishTerm": "brain",
+    "haitianCreole": [
+      "sèvo"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 20
+  },
+  {
+    "englishTerm": "breasts",
+    "haitianCreole": [
+      "tete yo"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      8
+    ],
+    "id": 21
+  },
+  {
+    "englishTerm": "elbow",
+    "haitianCreole": [
+      "koud"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      9
+    ],
+    "id": 22
+  },
+  {
+    "englishTerm": "eye",
+    "haitianCreole": [
+      "zye",
+      "je"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      9
+    ],
+    "id": 23
+  },
+  {
+    "englishTerm": "eyebrow",
+    "haitianCreole": [
+      "sousi"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      9
+    ],
+    "id": 24
+  },
+  {
+    "englishTerm": "eyelash",
+    "haitianCreole": [
+      "plimje"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      9
+    ],
+    "id": 25
+  },
+  {
+    "englishTerm": "eyelid",
+    "haitianCreole": [
+      "popyè",
+      "poje"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      9
+    ],
+    "id": 26
+  },
+  {
+    "englishTerm": "face",
+    "haitianCreole": [
+      "figi"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      9
+    ],
+    "id": 27
+  },
+  {
+    "englishTerm": "facial skin",
+    "haitianCreole": [
+      "po figi"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      9
+    ],
+    "id": 28
+  },
+  {
+    "englishTerm": "fallopian tube",
+    "haitianCreole": [
+      "twonp falòp"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      9
+    ],
+    "id": 29
+  },
+  {
+    "englishTerm": "fat",
+    "haitianCreole": [
+      "grès"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      9
+    ],
+    "id": 30
+  },
+  {
+    "englishTerm": "feet",
+    "haitianCreole": [
+      "pye yo"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      9
+    ],
+    "id": 31
+  },
+  {
+    "englishTerm": "femur",
+    "haitianCreole": [
+      "zo kwis"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      9
+    ],
+    "id": 32
+  },
+  {
+    "englishTerm": "skeleton",
+    "haitianCreole": [
+      "eskelèt",
+      "zo kò"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      9
+    ],
+    "id": 33
+  },
+  {
+    "englishTerm": "finger",
+    "haitianCreole": [
+      "dwèt"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 34
+  },
+  {
+    "englishTerm": "fingernail",
+    "haitianCreole": [
+      "zong"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 35
+  },
+  {
+    "englishTerm": "fist",
+    "haitianCreole": [
+      "pwen"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 36
+  },
+  {
+    "englishTerm": "flesh",
+    "haitianCreole": [
+      "chè",
+      "vyann"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 37
+  },
+  {
+    "englishTerm": "foot",
+    "haitianCreole": [
+      "pye"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 38
+  },
+  {
+    "englishTerm": "forearm",
+    "haitianCreole": [
+      "avanbra"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 39
+  },
+  {
+    "englishTerm": "forehead",
+    "haitianCreole": [
+      "fwon"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 40
+  },
+  {
+    "englishTerm": "gallbladder",
+    "haitianCreole": [
+      "blad bil",
+      "sak bil",
+      "vezikil bilvè",
+      "sak fyèl"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "sourceNote": "The page shows both \"gallbladder\" and an illustration labelled \"gall bladder\" with a different Creole variant.",
+    "id": 41
+  },
+  {
+    "englishTerm": "genitals",
+    "haitianCreole": [
+      "pati sèks",
+      "pati jenital"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 42
+  },
+  {
+    "englishTerm": "gland",
+    "haitianCreole": [
+      "glann"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 43
+  },
+  {
+    "englishTerm": "groin",
+    "haitianCreole": [
+      "lenn"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 44
+  },
+  {
+    "englishTerm": "gum",
+    "haitianCreole": [
+      "jansiv"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 45
+  },
+  {
+    "englishTerm": "hair (head)",
+    "haitianCreole": [
+      "cheve"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 46
+  },
+  {
+    "englishTerm": "hair (of the body)",
+    "haitianCreole": [
+      "pwal",
+      "plim"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 47
+  },
+  {
+    "englishTerm": "hair (pubic)",
+    "haitianCreole": [
+      "plim",
+      "pwèl",
+      "pwal"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      10
+    ],
+    "id": 48
+  },
+  {
+    "englishTerm": "hand",
+    "haitianCreole": [
+      "men"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 49
+  },
+  {
+    "englishTerm": "palm of the hand",
+    "haitianCreole": [
+      "plamen"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 50
+  },
+  {
+    "englishTerm": "head",
+    "haitianCreole": [
+      "tèt"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 51
+  },
+  {
+    "englishTerm": "heart",
+    "haitianCreole": [
+      "kè"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 52
+  },
+  {
+    "englishTerm": "heart valve",
+    "haitianCreole": [
+      "vav kè"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 53
+  },
+  {
+    "englishTerm": "heel",
+    "haitianCreole": [
+      "talon"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 54
+  },
+  {
+    "englishTerm": "hip",
+    "haitianCreole": [
+      "ranch",
+      "senti"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 55
+  },
+  {
+    "englishTerm": "hormone",
+    "haitianCreole": [
+      "òmòn"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 56
+  },
+  {
+    "englishTerm": "intestines",
+    "haitianCreole": [
+      "entesten",
+      "trip"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 57
+  },
+  {
+    "englishTerm": "small intestines",
+    "haitianCreole": [
+      "ti trip"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 58
+  },
+  {
+    "englishTerm": "large intestines",
+    "haitianCreole": [
+      "gwo trip"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 59
+  },
+  {
+    "englishTerm": "jaw",
+    "haitianCreole": [
+      "machwa"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 60
+  },
+  {
+    "englishTerm": "joint",
+    "haitianCreole": [
+      "jwenti"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 61
+  },
+  {
+    "englishTerm": "kidney",
+    "haitianCreole": [
+      "ren"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 62
+  },
+  {
+    "englishTerm": "knee",
+    "haitianCreole": [
+      "jenou"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 63
+  },
+  {
+    "englishTerm": "kneecap",
+    "haitianCreole": [
+      "zo jenou",
+      "kakon jenou"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 64
+  },
+  {
+    "englishTerm": "leg",
+    "haitianCreole": [
+      "janm"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 65
+  },
+  {
+    "englishTerm": "limb",
+    "haitianCreole": [
+      "manm"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 66
+  },
+  {
+    "englishTerm": "lip",
+    "haitianCreole": [
+      "po bouch"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 67
+  },
+  {
+    "englishTerm": "liver",
+    "haitianCreole": [
+      "fwa"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 68
+  },
+  {
+    "englishTerm": "lower back",
+    "haitianCreole": [
+      "senti"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 69
+  },
+  {
+    "englishTerm": "lung",
+    "haitianCreole": [
+      "poumon"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 70
+  },
+  {
+    "englishTerm": "parts of the lung",
+    "haitianCreole": [
+      "pati nan poumon"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      11
+    ],
+    "id": 71
+  },
+  {
+    "englishTerm": "molar",
+    "haitianCreole": [
+      "dan dèyè"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 72
+  },
+  {
+    "englishTerm": "mouth",
+    "haitianCreole": [
+      "bouch"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 73
+  },
+  {
+    "englishTerm": "muscle",
+    "haitianCreole": [
+      "mis",
+      "miskilati"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 74
+  },
+  {
+    "englishTerm": "nail",
+    "haitianCreole": [
+      "zong"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 75
+  },
+  {
+    "englishTerm": "navel",
+    "haitianCreole": [
+      "lonbrit"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 76
+  },
+  {
+    "englishTerm": "neck",
+    "haitianCreole": [
+      "kou"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 77
+  },
+  {
+    "englishTerm": "nerve",
+    "haitianCreole": [
+      "nè"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 78
+  },
+  {
+    "englishTerm": "nipples",
+    "haitianCreole": [
+      "pwent tete"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 79
+  },
+  {
+    "englishTerm": "areola of nipples",
+    "haitianCreole": [
+      "wonn tete"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 80
+  },
+  {
+    "englishTerm": "nose",
+    "haitianCreole": [
+      "nen"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 81
+  },
+  {
+    "englishTerm": "nostrils",
+    "haitianCreole": [
+      "twou nen"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 82
+  },
+  {
+    "englishTerm": "organ",
+    "haitianCreole": [
+      "ògàn"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 83
+  },
+  {
+    "englishTerm": "ovary",
+    "haitianCreole": [
+      "ovè",
+      "pòch ze",
+      "glann ki gen ovil (jèm fi)"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 84
+  },
+  {
+    "englishTerm": "palm",
+    "haitianCreole": [
+      "plamen"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 85
+  },
+  {
+    "englishTerm": "pancreas",
+    "haitianCreole": [
+      "pankreyas"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 86
+  },
+  {
+    "englishTerm": "pelvic area",
+    "haitianCreole": [
+      "zòn basen"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 87
+  },
+  {
+    "englishTerm": "pelvis",
+    "haitianCreole": [
+      "basen",
+      "pèlvis",
+      "bavant"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 88
+  },
+  {
+    "englishTerm": "penis",
+    "haitianCreole": [
+      "pijon",
+      "penis",
+      "kòk"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 89
+  },
+  {
+    "englishTerm": "prostate gland",
+    "haitianCreole": [
+      "glann pwostat"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 90
+  },
+  {
+    "englishTerm": "pulse",
+    "haitianCreole": [
+      "pou",
+      "batman kè"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 91
+  },
+  {
+    "englishTerm": "pupil",
+    "haitianCreole": [
+      "nwajè"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 92
+  },
+  {
+    "englishTerm": "rectum",
+    "haitianCreole": [
+      "gwotrip toupre tou dèyè"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 93
+  },
+  {
+    "englishTerm": "rib",
+    "haitianCreole": [
+      "kòt",
+      "zo kòt"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 94
+  },
+  {
+    "englishTerm": "rib cage",
+    "haitianCreole": [
+      "kòf lestomak"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 95
+  },
+  {
+    "englishTerm": "saliva",
+    "haitianCreole": [
+      "saliv",
+      "krache"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 96
+  },
+  {
+    "englishTerm": "scalp",
+    "haitianCreole": [
+      "po tèt"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 97
+  },
+  {
+    "englishTerm": "scapula",
+    "haitianCreole": [
+      "omoplat"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 98
+  },
+  {
+    "englishTerm": "scrotum",
+    "haitianCreole": [
+      "pòch grenn"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      12
+    ],
+    "id": 99
+  },
+  {
+    "englishTerm": "shin",
+    "haitianCreole": [
+      "jarèt"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 100
+  },
+  {
+    "englishTerm": "shoulder",
+    "haitianCreole": [
+      "zepòl"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 101
+  },
+  {
+    "englishTerm": "side",
+    "haitianCreole": [
+      "kote",
+      "sou kote"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 102
+  },
+  {
+    "englishTerm": "skin",
+    "haitianCreole": [
+      "po"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 103
+  },
+  {
+    "englishTerm": "skull",
+    "haitianCreole": [
+      "zo tèt"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 104
+  },
+  {
+    "englishTerm": "sole (of the foot)",
+    "haitianCreole": [
+      "playe"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 105
+  },
+  {
+    "englishTerm": "sperm",
+    "haitianCreole": [
+      "dechaj"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 106
+  },
+  {
+    "englishTerm": "spine",
+    "haitianCreole": [
+      "zo rèldo"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 107
+  },
+  {
+    "englishTerm": "spit",
+    "haitianCreole": [
+      "krache"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 108
+  },
+  {
+    "englishTerm": "spleen",
+    "haitianCreole": [
+      "larat"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 109
+  },
+  {
+    "englishTerm": "sternum",
+    "haitianCreole": [
+      "estènòm",
+      "zo biskèt"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 110
+  },
+  {
+    "englishTerm": "stomach",
+    "haitianCreole": [
+      "lestomak"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 111
+  },
+  {
+    "englishTerm": "teeth",
+    "haitianCreole": [
+      "dan"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 112
+  },
+  {
+    "englishTerm": "temple",
+    "haitianCreole": [
+      "tanp"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 113
+  },
+  {
+    "englishTerm": "tendon",
+    "haitianCreole": [
+      "tandon"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 114
+  },
+  {
+    "englishTerm": "testes",
+    "haitianCreole": [
+      "testikil"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 115
+  },
+  {
+    "englishTerm": "testicle",
+    "haitianCreole": [
+      "grenn",
+      "boul grenn",
+      "testikil"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 116
+  },
+  {
+    "englishTerm": "thigh",
+    "haitianCreole": [
+      "kwis"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 117
+  },
+  {
+    "englishTerm": "thorax",
+    "haitianCreole": [
+      "kòf lestomak"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 118
+  },
+  {
+    "englishTerm": "throat",
+    "haitianCreole": [
+      "gòj"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 119
+  },
+  {
+    "englishTerm": "thumb",
+    "haitianCreole": [
+      "dwèt pous"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 120
+  },
+  {
+    "englishTerm": "thyroid",
+    "haitianCreole": [
+      "glann tiwoyid"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 121
+  },
+  {
+    "englishTerm": "tissue",
+    "haitianCreole": [
+      "tisi"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      13
+    ],
+    "id": 122
+  },
+  {
+    "englishTerm": "toe",
+    "haitianCreole": [
+      "zòtèy"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 123
+  },
+  {
+    "englishTerm": "toenail",
+    "haitianCreole": [
+      "zong pye"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 124
+  },
+  {
+    "englishTerm": "tongue",
+    "haitianCreole": [
+      "lang"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 125
+  },
+  {
+    "englishTerm": "tonsils",
+    "haitianCreole": [
+      "amidal"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 126
+  },
+  {
+    "englishTerm": "tooth",
+    "haitianCreole": [
+      "dan"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 127
+  },
+  {
+    "englishTerm": "triceps",
+    "haitianCreole": [
+      "miskilati ponyèt"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 128
+  },
+  {
+    "englishTerm": "umbilical cord",
+    "haitianCreole": [
+      "kòd lonbrit"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 129
+  },
+  {
+    "englishTerm": "umbilicus, navel",
+    "haitianCreole": [
+      "lonbrit"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 130
+  },
+  {
+    "englishTerm": "urinary system",
+    "haitianCreole": [
+      "sistèm pipi"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 131
+  },
+  {
+    "englishTerm": "urine",
+    "haitianCreole": [
+      "pipi"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 132
+  },
+  {
+    "englishTerm": "uterus",
+    "haitianCreole": [
+      "matris"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 133
+  },
+  {
+    "englishTerm": "uvula",
+    "haitianCreole": [
+      "lalwèt"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 134
+  },
+  {
+    "englishTerm": "vagina",
+    "haitianCreole": [
+      "bouboun",
+      "vajen"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 135
+  },
+  {
+    "englishTerm": "vein",
+    "haitianCreole": [
+      "venn san fonse"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 136
+  },
+  {
+    "englishTerm": "vertebral column",
+    "haitianCreole": [
+      "zo rèldo"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 137
+  },
+  {
+    "englishTerm": "vocal cord",
+    "haitianCreole": [
+      "kòd vokal",
+      "kòd vwa"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 138
+  },
+  {
+    "englishTerm": "waist",
+    "haitianCreole": [
+      "senti",
+      "tay"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 139
+  },
+  {
+    "englishTerm": "wrist",
+    "haitianCreole": [
+      "pwayè"
+    ],
+    "category": "Anatomy",
+    "sourcePdfPages": [
+      14
+    ],
+    "id": 140
+  },
+  {
+    "englishTerm": "accident",
+    "haitianCreole": [
+      "aksidan"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      15
+    ],
+    "id": 141
+  },
+  {
+    "englishTerm": "address",
+    "haitianCreole": [
+      "adrès"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      15
+    ],
+    "id": 142
+  },
+  {
+    "englishTerm": "alive",
+    "haitianCreole": [
+      "vivan",
+      "anvi"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      15
+    ],
+    "id": 143
+  },
+  {
+    "englishTerm": "allergies",
+    "haitianCreole": [
+      "alèji"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      15
+    ],
+    "id": 144
+  },
+  {
+    "englishTerm": "allergy",
+    "haitianCreole": [
+      "alèji"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      15
+    ],
+    "id": 145
+  },
+  {
+    "englishTerm": "Does he/she have allergies?",
+    "haitianCreole": [
+      "Eske li fè alèji ak kèk bagay?"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      15
+    ],
+    "id": 146
+  },
+  {
+    "englishTerm": "ambulance",
+    "haitianCreole": [
+      "anbilans"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      15
+    ],
+    "id": 147
+  },
+  {
+    "englishTerm": "ankle",
+    "haitianCreole": [
+      "chevi",
+      "jepye"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      15
+    ],
+    "id": 148
+  },
+  {
+    "englishTerm": "antibiotics",
+    "haitianCreole": [
+      "antibyotik"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      15
+    ],
+    "id": 149
+  },
+  {
+    "englishTerm": "appointment",
+    "haitianCreole": [
+      "randevou"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      15
+    ],
+    "id": 150
+  },
+  {
+    "englishTerm": "aspirin",
+    "haitianCreole": [
+      "aspirin"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      15
+    ],
+    "id": 151
+  },
+  {
+    "englishTerm": "authorization",
+    "haitianCreole": [
+      "otorizasyon"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      15
+    ],
+    "id": 152
+  },
+  {
+    "englishTerm": "back",
+    "haitianCreole": [
+      "do",
+      "dèyè do"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 153
+  },
+  {
+    "englishTerm": "bandage",
+    "haitianCreole": [
+      "pansman",
+      "bandaj"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 154
+  },
+  {
+    "englishTerm": "Do not get the bandage wet",
+    "haitianCreole": [
+      "Pa mouye pansman an."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 155
+  },
+  {
+    "englishTerm": "blood pressure",
+    "haitianCreole": [
+      "tansyon"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 156
+  },
+  {
+    "englishTerm": "blood",
+    "haitianCreole": [
+      "san"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 157
+  },
+  {
+    "englishTerm": "blood sample",
+    "haitianCreole": [
+      "priz san"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 158
+  },
+  {
+    "englishTerm": "blood test",
+    "haitianCreole": [
+      "tès san"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 159
+  },
+  {
+    "englishTerm": "blood transfusion",
+    "haitianCreole": [
+      "pran san"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "sourceNote": "The emergency section gives \"pran san\" for this entry; this source wording is preserved rather than replaced with a different translation.",
+    "id": 160
+  },
+  {
+    "englishTerm": "blood type",
+    "haitianCreole": [
+      "gwoup san",
+      "gwoup sangen"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 161
+  },
+  {
+    "englishTerm": "bloody",
+    "haitianCreole": [
+      "senyen",
+      "an san",
+      "beyen an san"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 162
+  },
+  {
+    "englishTerm": "breath",
+    "haitianCreole": [
+      "souf",
+      "respirasyon"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 163
+  },
+  {
+    "englishTerm": "deep breath",
+    "haitianCreole": [
+      "respire fò"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 164
+  },
+  {
+    "englishTerm": "out of breath",
+    "haitianCreole": [
+      "pèdi souf",
+      "souf koupe",
+      "souf anlè"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 165
+  },
+  {
+    "englishTerm": "shortness of breath",
+    "haitianCreole": [
+      "souf kout"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 166
+  },
+  {
+    "englishTerm": "hold breath",
+    "haitianCreole": [
+      "kenbe souf"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 167
+  },
+  {
+    "englishTerm": "exhale",
+    "haitianCreole": [
+      "lage souf"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 168
+  },
+  {
+    "englishTerm": "inhale",
+    "haitianCreole": [
+      "pran souf",
+      "respire"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 169
+  },
+  {
+    "englishTerm": "breathe",
+    "haitianCreole": [
+      "respire"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 170
+  },
+  {
+    "englishTerm": "Try to breathe normally",
+    "haitianCreole": [
+      "Eseye respire nòmalman"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 171
+  },
+  {
+    "englishTerm": "breathing",
+    "haitianCreole": [
+      "respirasyon"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 172
+  },
+  {
+    "englishTerm": "burn",
+    "haitianCreole": [
+      "brile",
+      "boule"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 173
+  },
+  {
+    "englishTerm": "You have been burned",
+    "haitianCreole": [
+      "Ou brile",
+      "Ou boule"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 174
+  },
+  {
+    "englishTerm": "calm",
+    "haitianCreole": [
+      "kal",
+      "trankil",
+      "rete dousman"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 175
+  },
+  {
+    "englishTerm": "Please remain calm",
+    "haitianCreole": [
+      "Tanpri, rete kal"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 176
+  },
+  {
+    "englishTerm": "cast",
+    "haitianCreole": [
+      "anplat",
+      "aparèy"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      16
+    ],
+    "id": 177
+  },
+  {
+    "englishTerm": "choking",
+    "haitianCreole": [
+      "trangle"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 178
+  },
+  {
+    "englishTerm": "He/she choked on food",
+    "haitianCreole": [
+      "Li trangle pandan li ap manje."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 179
+  },
+  {
+    "englishTerm": "clinic",
+    "haitianCreole": [
+      "klinik"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 180
+  },
+  {
+    "englishTerm": "compress",
+    "haitianCreole": [
+      "konprès"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 181
+  },
+  {
+    "englishTerm": "consciousness",
+    "haitianCreole": [
+      "konesans"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 182
+  },
+  {
+    "englishTerm": "lose consciousness",
+    "haitianCreole": [
+      "pèdi konesans"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 183
+  },
+  {
+    "englishTerm": "regain consciousness",
+    "haitianCreole": [
+      "revni",
+      "reprann konesans"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 184
+  },
+  {
+    "englishTerm": "dead",
+    "haitianCreole": [
+      "mouri"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 185
+  },
+  {
+    "englishTerm": "death",
+    "haitianCreole": [
+      "lanmò"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 186
+  },
+  {
+    "englishTerm": "diabetes",
+    "haitianCreole": [
+      "dyabèt"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 187
+  },
+  {
+    "englishTerm": "drown",
+    "haitianCreole": [
+      "nwaye",
+      "neye"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 188
+  },
+  {
+    "englishTerm": "drunk",
+    "haitianCreole": [
+      "sou"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 189
+  },
+  {
+    "englishTerm": "pass out",
+    "haitianCreole": [
+      "endispoze"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 190
+  },
+  {
+    "englishTerm": "faint",
+    "haitianCreole": [
+      "endispoze"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 191
+  },
+  {
+    "englishTerm": "Has he fainted?",
+    "haitianCreole": [
+      "Eske li te endispoze?"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 192
+  },
+  {
+    "englishTerm": "help",
+    "haitianCreole": [
+      "sekou!",
+      "Anmwe sekou!"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 193
+  },
+  {
+    "englishTerm": "I am here to help you",
+    "haitianCreole": [
+      "Mwen la pou mwen ede ou."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 194
+  },
+  {
+    "englishTerm": "hospital",
+    "haitianCreole": [
+      "lopital"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 195
+  },
+  {
+    "englishTerm": "We are going to take you to a hospital (clinic)",
+    "haitianCreole": [
+      "Nou ap mennen ou lopital (klinik)."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 196
+  },
+  {
+    "englishTerm": "hurt",
+    "haitianCreole": [
+      "fè mal"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 197
+  },
+  {
+    "englishTerm": "It will not hurt",
+    "haitianCreole": [
+      "Li pap fè ou mal."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 198
+  },
+  {
+    "englishTerm": "Tell me if this hurts",
+    "haitianCreole": [
+      "Di mwen si sa a fè ou mal."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 199
+  },
+  {
+    "englishTerm": "identification",
+    "haitianCreole": [
+      "idantifikasyon"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 200
+  },
+  {
+    "englishTerm": "injury",
+    "haitianCreole": [
+      "aksidan",
+      "blese",
+      "frape"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 201
+  },
+  {
+    "englishTerm": "I.V.",
+    "haitianCreole": [
+      "sewòm"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 202
+  },
+  {
+    "englishTerm": "You have dislocated a joint",
+    "haitianCreole": [
+      "Ou dejwente."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      17
+    ],
+    "id": 203
+  },
+  {
+    "englishTerm": "crutches",
+    "haitianCreole": [
+      "beki"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 204
+  },
+  {
+    "englishTerm": "marital status",
+    "haitianCreole": [
+      "eta sivil (marye, divòse oswa selibatè)"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 205
+  },
+  {
+    "englishTerm": "Medicare form",
+    "haitianCreole": [
+      "fòm medikè"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 206
+  },
+  {
+    "englishTerm": "medications",
+    "haitianCreole": [
+      "medikaman"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 207
+  },
+  {
+    "englishTerm": "required medications",
+    "haitianCreole": [
+      "medikaman ou dwe pran"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 208
+  },
+  {
+    "englishTerm": "Is he/she taking any medications?",
+    "haitianCreole": [
+      "Eske li ap pran medikaman?"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 209
+  },
+  {
+    "englishTerm": "What kind?",
+    "haitianCreole": [
+      "Ki kalite?"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 210
+  },
+  {
+    "englishTerm": "For the heart?",
+    "haitianCreole": [
+      "Pou maladi kè?"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 211
+  },
+  {
+    "englishTerm": "For the lungs?",
+    "haitianCreole": [
+      "Pou maladi poumon?"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 212
+  },
+  {
+    "englishTerm": "Insulin?",
+    "haitianCreole": [
+      "Ensilin?"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 213
+  },
+  {
+    "englishTerm": "medicine",
+    "haitianCreole": [
+      "medikaman",
+      "remèd"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 214
+  },
+  {
+    "englishTerm": "I will put you on medicine to make the pain go away",
+    "haitianCreole": [
+      "Mwen pral ba ou medikaman pou doulè a ale."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 215
+  },
+  {
+    "englishTerm": "move",
+    "haitianCreole": [
+      "bouje"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 216
+  },
+  {
+    "englishTerm": "Please don't move",
+    "haitianCreole": [
+      "Tanpri, pa bouje."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 217
+  },
+  {
+    "englishTerm": "mouth to mouth resuscitation",
+    "haitianCreole": [
+      "bouch nan bouch"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 218
+  },
+  {
+    "englishTerm": "You have pulled a muscle",
+    "haitianCreole": [
+      "Ou gen yon pyès miskilati ki dechire."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 219
+  },
+  {
+    "englishTerm": "naked",
+    "haitianCreole": [
+      "toutouni"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 220
+  },
+  {
+    "englishTerm": "name",
+    "haitianCreole": [
+      "non"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 221
+  },
+  {
+    "englishTerm": "last name",
+    "haitianCreole": [
+      "siyati"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 222
+  },
+  {
+    "englishTerm": "nauseated",
+    "haitianCreole": [
+      "kè plen",
+      "anvi vomi"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 223
+  },
+  {
+    "englishTerm": "pain",
+    "haitianCreole": [
+      "doulè"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 224
+  },
+  {
+    "englishTerm": "pain medications",
+    "haitianCreole": [
+      "medikaman pou doulè"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 225
+  },
+  {
+    "englishTerm": "Do you feel pain anywhere?",
+    "haitianCreole": [
+      "Eske gen kote ki ap fè ou mal?"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 226
+  },
+  {
+    "englishTerm": "patient",
+    "haitianCreole": [
+      "pasyan",
+      "malad"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 227
+  },
+  {
+    "englishTerm": "permission",
+    "haitianCreole": [
+      "pèmisyon"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 228
+  },
+  {
+    "englishTerm": "permission (consent) form",
+    "haitianCreole": [
+      "fòm pou bay pèmisyon"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 229
+  },
+  {
+    "englishTerm": "physician",
+    "haitianCreole": [
+      "doktè"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 230
+  },
+  {
+    "englishTerm": "referring physician",
+    "haitianCreole": [
+      "doktè ki bay rekòmandasyon"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 231
+  },
+  {
+    "englishTerm": "pregnant",
+    "haitianCreole": [
+      "ansent"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      18
+    ],
+    "id": 232
+  },
+  {
+    "englishTerm": "Is she pregnant?",
+    "haitianCreole": [
+      "Eske li ansent?"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 233
+  },
+  {
+    "englishTerm": "private doctor",
+    "haitianCreole": [
+      "doktè prive"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 234
+  },
+  {
+    "englishTerm": "problem",
+    "haitianCreole": [
+      "pwoblèm"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 235
+  },
+  {
+    "englishTerm": "registered",
+    "haitianCreole": [
+      "enskri"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 236
+  },
+  {
+    "englishTerm": "shot",
+    "haitianCreole": [
+      "piki"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 237
+  },
+  {
+    "englishTerm": "snake",
+    "haitianCreole": [
+      "koulèv"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 238
+  },
+  {
+    "englishTerm": "Was he/she bitten by a snake?",
+    "haitianCreole": [
+      "Eske te gen yon koulèv ki pike l?"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 239
+  },
+  {
+    "englishTerm": "stitch",
+    "haitianCreole": [
+      "pwen kouti"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 240
+  },
+  {
+    "englishTerm": "telephone number",
+    "haitianCreole": [
+      "nimewo telefòn"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 241
+  },
+  {
+    "englishTerm": "tetanus",
+    "haitianCreole": [
+      "tetanòs"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 242
+  },
+  {
+    "englishTerm": "urine test",
+    "haitianCreole": [
+      "tès pipi"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 243
+  },
+  {
+    "englishTerm": "What happened to him/her?",
+    "haitianCreole": [
+      "Kisa ki pase li?"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 244
+  },
+  {
+    "englishTerm": "He/she complained of pain and fell to the floor",
+    "haitianCreole": [
+      "Li te ap plenyen de li gen doulè epi li tonbe atè a."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 245
+  },
+  {
+    "englishTerm": "wound",
+    "haitianCreole": [
+      "blesi"
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 246
+  },
+  {
+    "englishTerm": "You have been wounded",
+    "haitianCreole": [
+      "Ou blese."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 247
+  },
+  {
+    "englishTerm": "I am going to apply pressure to stop the bleeding",
+    "haitianCreole": [
+      "Mwen pral peze sou blesi a pou mwen ka rete san an."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 248
+  },
+  {
+    "englishTerm": "You have been cut",
+    "haitianCreole": [
+      "Ou blese."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 249
+  },
+  {
+    "englishTerm": "You have a laceration",
+    "haitianCreole": [
+      "Ou gen yon pati ki dechire."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 250
+  },
+  {
+    "englishTerm": "You have a gash",
+    "haitianCreole": [
+      "Ou gen yon [kote] ki koupe."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 251
+  },
+  {
+    "englishTerm": "You have a puncture wound",
+    "haitianCreole": [
+      "Ou gen yon [kote] ki pike."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 252
+  },
+  {
+    "englishTerm": "You don't need stitches",
+    "haitianCreole": [
+      "Ou pap bezwen pwen kouti."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 253
+  },
+  {
+    "englishTerm": "You must keep the wound clean at all times",
+    "haitianCreole": [
+      "Se pou ou kenbe blesi a pwòp toutan."
+    ],
+    "category": "Emergency",
+    "sourcePdfPages": [
+      19
+    ],
+    "id": 254
+  },
+  {
+    "englishTerm": "appendix",
+    "haitianCreole": [
+      "apendis"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 255
+  },
+  {
+    "englishTerm": "appetite",
+    "haitianCreole": [
+      "apeti"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 256
+  },
+  {
+    "englishTerm": "loss of appetite",
+    "haitianCreole": [
+      "pa gen apeti",
+      "apeti koupe"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 257
+  },
+  {
+    "englishTerm": "apply",
+    "haitianCreole": [
+      "mete"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 258
+  },
+  {
+    "englishTerm": "arch",
+    "haitianCreole": [
+      "koub"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 259
+  },
+  {
+    "englishTerm": "areola",
+    "haitianCreole": [
+      "areyòl (sèk ki alantou pwent tete a)"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 260
+  },
+  {
+    "englishTerm": "arm",
+    "haitianCreole": [
+      "bra"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 261
+  },
+  {
+    "englishTerm": "armpit",
+    "haitianCreole": [
+      "anbabra",
+      "anba zèsèl"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 262
+  },
+  {
+    "englishTerm": "artery",
+    "haitianCreole": [
+      "atè",
+      "kannal san wouj"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 263
+  },
+  {
+    "englishTerm": "arthroscopy",
+    "haitianCreole": [
+      "egzamen pou enspekte andedan jwenti"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 264
+  },
+  {
+    "englishTerm": "ascorbic acid",
+    "haitianCreole": [
+      "asid askòbik",
+      "vitamin C (se)"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 265
+  },
+  {
+    "englishTerm": "athlete's foot",
+    "haitianCreole": [
+      "mayas",
+      "pye atlèt"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 266
+  },
+  {
+    "englishTerm": "auricle",
+    "haitianCreole": [
+      "oreyèt",
+      "(pati nan kè)"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 267
+  },
+  {
+    "englishTerm": "baby",
+    "haitianCreole": [
+      "bebe",
+      "tibebe"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 268
+  },
+  {
+    "englishTerm": "term baby",
+    "haitianCreole": [
+      "tibebe ki fèt sou nèf mwa"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 269
+  },
+  {
+    "englishTerm": "baby bottle",
+    "haitianCreole": [
+      "bibon",
+      "bibwon"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 270
+  },
+  {
+    "englishTerm": "baby oil",
+    "haitianCreole": [
+      "lwil bebe"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 271
+  },
+  {
+    "englishTerm": "backache",
+    "haitianCreole": [
+      "doulè nan do",
+      "maldo"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 272
+  },
+  {
+    "englishTerm": "backbone",
+    "haitianCreole": [
+      "kolòn vètebral",
+      "zo rèldo",
+      "zo chini-do"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 273
+  },
+  {
+    "englishTerm": "bacteria",
+    "haitianCreole": [
+      "bakteri"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 274
+  },
+  {
+    "englishTerm": "balanced diet",
+    "haitianCreole": [
+      "dyèt ki balanse",
+      "dyèt ekilibre (ki gen tout kalite manje ladan l)"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 275
+  },
+  {
+    "englishTerm": "balance",
+    "haitianCreole": [
+      "ekilib"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 276
+  },
+  {
+    "englishTerm": "balloon surgery",
+    "haitianCreole": [
+      "operasyon pou debloke kannal san ak yon ti balon"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 277
+  },
+  {
+    "englishTerm": "band-aid",
+    "haitianCreole": [
+      "pansman"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 278
+  },
+  {
+    "englishTerm": "bath towel",
+    "haitianCreole": [
+      "sèvyèt deben"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 279
+  },
+  {
+    "englishTerm": "bathtub",
+    "haitianCreole": [
+      "basen",
+      "basinèt"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 280
+  },
+  {
+    "englishTerm": "beating",
+    "haitianCreole": [
+      "batman"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 281
+  },
+  {
+    "englishTerm": "bed",
+    "haitianCreole": [
+      "kabann"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 282
+  },
+  {
+    "englishTerm": "bed sore",
+    "haitianCreole": [
+      "maleng kabann"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 283
+  },
+  {
+    "englishTerm": "bedpan",
+    "haitianCreole": [
+      "vaz",
+      "potchanm"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 284
+  },
+  {
+    "englishTerm": "bedtime",
+    "haitianCreole": [
+      "lè dòmi"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 285
+  },
+  {
+    "englishTerm": "before bedtime",
+    "haitianCreole": [
+      "anvan ou al dòmi"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 286
+  },
+  {
+    "englishTerm": "bedtime snack",
+    "haitianCreole": [
+      "kolasyon anvan ou ale dòmi"
+    ],
+    "category": "General Medical",
+    "sourcePdfPages": [
+      88
+    ],
+    "id": 287
+  }
+]

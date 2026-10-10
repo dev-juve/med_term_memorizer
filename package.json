@@ -1,0 +1,15 @@
+{
+  "name": "medical-terminology-trainer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A beginner-friendly TypeScript command-line app and local API for English-Haitian Creole medical terminology.",
+  "scripts": {
+    "build": "tsc",
+    "api": "node dist/server.js",
+    "learn": "node dist/cli.js"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.8.3"
+  }
+}
