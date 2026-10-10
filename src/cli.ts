@@ -7,7 +7,8 @@ const API_URL = "http://localhost:3000/api/terms";
 // this function asks the API for the medical terms.
 async function getAllMedicalTerms(): Promise<MedicalTermData[]> {
   const response = await fetch(API_URL);
-
+  
+// check the API data
   if (!response.ok) {
     throw new Error("The API returned an error. Check the API server.");
   }
@@ -21,7 +22,8 @@ async function getAllMedicalTerms(): Promise<MedicalTermData[]> {
   if (receivedTerms.length === 0) {
     throw new Error("The API returned an empty list of medical terms.");
   }
-
+  
+  // return data is all check passed
   return receivedTerms as MedicalTermData[];
 }
 
@@ -31,6 +33,7 @@ function findNextTermRecursively(
   viewedTermIds: number[],
   index: number
 ): MedicalTermData | null {
+  // base case
   if (index >= terms.length) {
     return null;
   }
@@ -41,6 +44,7 @@ function findNextTermRecursively(
     return currentTerm;
   }
 
+  // the fuction call itself and increment the index
   return findNextTermRecursively(terms, viewedTermIds, index + 1);
 }
 
@@ -66,21 +70,24 @@ async function main(): Promise<void> {
 
     try {
       while (true) {
+        // show the first term in the array
         let term = findNextTermRecursively(terms, viewedTermIds, 0);
-
+        
+        // reset the index to zero if all terms have been displayed
         if (term === null) {
           console.log("\nYou have reviewed every term. The list will start again.\n");
           viewedTermIds.length = 0;
           term = findNextTermRecursively(terms, viewedTermIds, 0);
         }
-
+        // throw error if term is still null
         if (term === null) {
           throw new Error("No medical terms are available to display.");
         }
-
+        // show the term then add it to the viewedTerms array
         displayTerm(term);
         viewedTermIds.push(term.id);
-
+        
+        // await user input
         const answer = await userInput.question("Press Enter for the next term, or type quit to exit: ");
 
         if (answer.trim().toLowerCase() === "quit") {
